@@ -1,0 +1,11 @@
+Coding Approach:
+A function is called when the submit button is pressed. 
+Then, a random number between 11 to 99 is generated using the in-built functions math.floor and math.random. 
+The first and second digits are then extracted using mathematical calculations such as division to obtain the first digit, and modulus to obtain the second digit.
+A for loop is run to identify each character in the string if it is a vowel or a consonant. This is done using the in-built function "match".
+Once identified, the character is stored in an array. This array is later joined back to form a string using the in-built function "join".
+
+References:
+1. https://ibaslogic.com/react-tutorial-for-beginners/
+2. https://www.tutorialspoint.com/cryptography_with_python/cryptography_with_python_caesar_cipher.html
+3. https://stackoverflow.com/questions/69956679/how-to-count-the-number-of-vowels-consonants-and-characters-in-a-string-using
