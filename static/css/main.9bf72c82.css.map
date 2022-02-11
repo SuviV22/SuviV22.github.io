@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.9bf72c82.css","mappings":"AAAA,IACC,aAAa,CACb,aACD,CACA,EACC,eACD","sources":["style.css"],"sourcesContent":["div {\r\n\tdisplay:block;\r\n\tmargin-top:5%;\r\n}\r\np {\r\n\tfont-weight:bold;\r\n}"],"names":[],"sourceRoot":""}
