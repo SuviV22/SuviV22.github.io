@@ -9,3 +9,6 @@ References:
 1. https://ibaslogic.com/react-tutorial-for-beginners/
 2. https://www.tutorialspoint.com/cryptography_with_python/cryptography_with_python_caesar_cipher.html
 3. https://stackoverflow.com/questions/69956679/how-to-count-the-number-of-vowels-consonants-and-characters-in-a-string-using
+4. https://pages.github.com/
+5. https://youtu.be/F8s4Ng-re0E
+6. https://create-react-app.dev/docs/deployment/
